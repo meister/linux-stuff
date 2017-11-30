@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=ZoomLauncher
+Comment=Zoom Video Conference
+Exec=/usr/share/zoom/ZoomLauncher %U
+Path=/usr/share/zoom/
+Icon=/usr/share/zoom/Zoom.png
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Network;Application;
+MimeType=x-scheme-handler/zoommtg;application/x-zoom;
+X-KDE-Protocols=zoommtg
+Name[en_US]=ZoomLauncher
